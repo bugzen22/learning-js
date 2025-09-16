@@ -1,1 +1,1 @@
-# learning-jt
+# 1stAssignmentJS
