@@ -79,4 +79,4 @@ output: 5
 ex: let randomNumber = Math.random();
 console.log(randomNumber);
 সম্ভাব্য output:0.487392183
-// asignment.js - GitHub Link: 
+// asignment.js - GitHub Link: https://github.com/bugzen22/learning-js/edit/main/1stAssignmentJS
